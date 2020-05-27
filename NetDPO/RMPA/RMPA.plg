@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: RMPA - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\LeiLei\AppData\Local\Temp\RSPBD0A.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/RMPA.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\LeiLei\Desktop\Ëã·¨\RMPA\RMPA.cpp"
+]
+Creating command line "cl.exe @C:\Users\LeiLei\AppData\Local\Temp\RSPBD0A.tmp" 
+Creating command line "link.exe /nologo /subsystem:console /incremental:yes /pdb:"Debug/RMPA.pdb" /debug /machine:I386 /out:"Debug/RMPA.exe" /pdbtype:sept  ".\Debug\RMPA.obj" "
+<h3>Output Window</h3>
+Compiling...
+RMPA.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+RMPA.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
